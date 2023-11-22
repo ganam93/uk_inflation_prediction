@@ -16,3 +16,5 @@ To run this project code follow the below steps
     >jupyter notebook
 
 5. Open any notebook from folder and select kernel as .venv at right top corner.
+
+6. Run the notebook
