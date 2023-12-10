@@ -1,7 +1,7 @@
 jupyter
+ipykernel
+openpyxl
 pandas
 numpy
 scikit-learn
 tensorflow
-Flask
-openpyxl
